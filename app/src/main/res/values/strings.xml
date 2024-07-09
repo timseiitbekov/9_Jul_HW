@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">9_Jul_HW</string>
+    <string name="loading">Loading…</string>
+    <string name="trivia">Trivia</string>
+    <string name="login">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="login_facebook">Log in with Facebook</string>
+    <string name="or">OR</string>
+    <string name="login_email">Up with Email</string>
+    <string name="gamenow">Game now</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="next">NEXT</string>
+</resources>
